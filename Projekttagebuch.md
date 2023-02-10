@@ -1,12 +1,12 @@
 # Info-projekt
 ### Eine ungenaue Reportage von meiner Arbeit
 ## Inhalt
-1. Erste Idee
+1. <a href="#ErsteIdee"> Erste Idee</a></li>
 2. Tools
 3. Design
 4. Protokoll
 
-## Erste Idee
+## <a name="ErsteIdee"> Erste Idee</a>
 
 Ich hatte die Idee für das Fach Geschichte eine Website zu machen, mit der man schnell den ersten Welkrieg versteht. Eine konkrete Idee für das Design, hatte ich noch nicht, aber eine Konzept hatte ich schon.
 ![Alt-Text](4E037DEC-9BB4-43C9-89C1-1F663A5AC272.png)
