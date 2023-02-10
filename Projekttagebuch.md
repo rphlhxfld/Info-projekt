@@ -9,4 +9,4 @@
 ## Erste Idee
 
 Ich hatte die Idee für Geschichte eine Website zu machen, mit der man schnell den ersten Welkrieg, zu machen. Eine konkrete Idee für das Design, hatte ich noch nicht, aber eine Konzept hatte ich schon.
-![Alt-Text](/Pfad/zum/Bi"optionaler Titel")
+![Alt-Text](4E037DEC-9BB4-43C9-89C1-1F663A5AC272.png)
