@@ -17,6 +17,6 @@ Wie ich die Top Navigation Bar machen sollte, wusste ich noch nicht, aber dies k
 
 ## <a name="Tools"> Tools</a>
 
-# GitHub
+### GitHub
 
 Das praktische an GitHub war, dass ich an meinem iPad, an meinen Pc und an dem Schulcomputer arbeiten konnte und ohne großen Aufwand es Speicher konnte. Außerdem mußt ich mir nicht auf dem Schulcomputer bestimmte Programme runterladen, um dieses Projekt zu bearbeiten, sondern ich konnte einfach den Codespace bei GitHub benutzen.
