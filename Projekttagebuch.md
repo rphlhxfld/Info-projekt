@@ -27,3 +27,7 @@ Das praktische an GitHub war, dass ich an meinem iPad, an meinen Pc und an dem S
 ### Stunde vom 13.2.2023
 
 Ich der heutigen Stunde habe ich richtig mit meienr Arbeit angefangen, statt mich mit css und ähnlichem auseinanderzusetzten. Zuerst habe ich versucht, eine Top Navigation Bar über HTML einzufügen. Als dies erfolgreich war, habe ich ein bisschen css code hinzugefügt, damit die Hintergrundfarbe, die Schriftfarbe und etc. ändertanders ist und besser aussieht. Außerdem habe ich das Design der ganzen Website geändert, damit es nicht mehr den standart White-Lokk von html Hatte. Ich habe die Hintergrundfarbe zu einem Grau-Ton geändert und daruf die Schriftfareb auf weiß eingestellt. Als nächstes würde ich ein Design mir für die Website mit Figma erstellen.
+
+### Nachmittag vom 13.2.2023 
+
+Nachdem Ich mir ein Design für die Start-Website mit Figma ausgedacht habe, fügte ich ein passendes Bild ein.
