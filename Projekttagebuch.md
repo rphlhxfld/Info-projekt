@@ -13,7 +13,7 @@
 
 Ich hatte die Idee für das Fach Geschichte eine Website zu machen, mit der man schnell den ersten Welkrieg versteht. Eine konkrete Idee für das Design, hatte ich noch nicht, aber eine Konzept hatte ich schon.
 ![Alt-Text](4E037DEC-9BB4-43C9-89C1-1F663A5AC272.png)
-Wie ich die Top Navigation Bar machen sollte, wusste ich noch nicht, aber dies kann man einfach auf w3schools finden. (https://www.w3schools.com/howto/howto_js_topnav.asp) Die Idee ist, dass ganz oben auf der Seite der Anfang des Krieges ist und je weiter man scrollt, desso weiter entwickelt sich der Krieg. Dass Design sah dann in etwa so aus: ![Alt-Text](Erster_Weltkrieg-Konzept_von_Website_umgeführt.png) Ich habe dunkle Farben gewählt, da diese die Grausamkeit des Krieges darstellen sollten.
+Wie ich die Top Navigation Bar machen sollte, wusste ich noch nicht, aber dies kann man einfach auf w3schools finden. (https://www.w3schools.com/howto/howto_js_topnav.asp) Die Idee ist, dass ganz oben auf der Seite der Anfang des Krieges ist und je weiter man scrollt, desso weiter entwickelt sich der Krieg. Dass Design sah dann in etwa so aus: ![Alt-Text](Erster_Weltkrieg-Konzept_von_Website_umgeführt.png) Ich habe dunkle Farben gewählt, da diese die Grausamkeit des Krieges darstellen sollten. Außerdem passen schwarz-weiß Bilder dann zur Website.
  
 
 ## <a name="Tools"> Tools</a>
@@ -34,9 +34,13 @@ Ich der heutigen Stunde habe ich richtig mit meienr Arbeit angefangen, statt mic
 Nachdem Ich mir ein Design für die Start-Website mit Figma ausgedacht habe, fügte ich ein passendes Bild ein.
 
 
-### <b>Abend 18.02.2023</b>
+### <b>Abend vom18.02.2023</b>
 
 Da ich mehrere Tage krank war, beginne ich heute mitt meiner Website. Zuerst habe ich mein Thema vom Ersten Weltkrieg allgemein zu "Die Waffen des Ersten Weltkrieges und der Unterschied zu vorherigen Kriegen gewechselt. Außerdem habe ich mir Themen rausgesucht, zu den ich was recherchieren möchte:[ Hier zu den Notizen](RecherchierThemen.htm).
+
+### <b>19.2.2023</b>
+
+Am heutigen Tag habe ich sehr viel gemacht. Staret wir mit dem Design: Ich habe die Grautöne geändert, damit sie besser matchen und ich habe eine Weiter Navigation Bar erstellt, um einen besseren Überblick zu haben. Dann habe ich mit der Recherche angefangen. Zuerst habe ich das Thema Artillerie recherchiert und dann den Text geschrieben. Das gleiche Verfahren habe ich bei Panzer, Flugzeugen und Maschinengewehren gemacht. Daraufhin habe ich aus eigenen Erekenntnisen ein Fazit geschrieben. Dies hat mich insgesamt 5 Stunden gekostet. Da ich mich noch ein bisschen mehr in das Themaa hereingelesen habe.
 
 
 
@@ -44,8 +48,10 @@ Da ich mehrere Tage krank war, beginne ich heute mitt meiner Website. Zuerst hab
 
 <ol>
 <li><b>Regionalgeschichte.net</b>: „Moderner Krieg“? Neue Techniken und Totalisierung des Krieges von 1914-1918;<a href="https://www.regionalgeschichte.net/index.php?id=15623"> https://www.regionalgeschichte.net/index.php?id=15623</a> (19.02.2023)</li>
-<li><b>Habsburger.net</b>: Artillerie II.: Die Feuerwalze, das Trommel- und Sperrfeuer; <a href="https://ww1.habsburger.net/de/kapitel/artillerie-ii-die-feuerwalze-das-trommel-und-sperrfeuer#:~:text=Artillerie%20und%20Infanterie%20zählten%20zu,Infanteristen%20„Schützenhilfe"%20zu%20leisten.">https://ww1.habsburger.net/de/kapitel/artillerie-ii-die-feuerwalze-das-trommel-und-sperrfeuer#:~:text=Artillerie%20und%20Infanterie%20zählten%20zu,Infanteristen%20„Schützenhilfe"%20zu%20leisten.</a>(19.2.2023)</li>
+<li><b>Habsburger.net</b>: Artillerie II.: Die Feuerwalze, das Trommel- und Sperrfeuer; <a href="https://ww1.habsburger.net/de/kapitel/artillerie-ii-die-feuerwalze-das-trommel-und-sperrfeuer">https://ww1.habsburger.net/de/kapitel/artillerie-ii-die-feuerwalze-das-trommel-und-sperrfeuer</a>(19.2.2023)</li>
 <li><b>Wikipedia.org</b>: Artillerie <a href="https://de.wikipedia.org/wiki/Artillerie">https://de.wikipedia.org/wiki/Artillerie(19.02.2023)</a>(19.02.2023)</li>
 <li><b>Wikipedia.org</b>: Dicke Bertha <a href="https://de.wikipedia.org/wiki/Dicke_Bertha">https://de.wikipedia.org/wiki/Dicke_Bertha</a>
-<li><b>Wikipedia.org</li>
+<li><b>Wikipedia.org</b>:<a href="https://de.wikipedia.org/wiki/Fokker_E.I-IV"></a>https://de.wikipedia.org/wiki/Fokker_E.I-IV</li>
+<li>Eigenes Wissen: Raphael Hirschfeld - Mein eigenes Wissen, Bonn 2008 (1.Auflage)
 </ol>
+
