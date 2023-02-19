@@ -1,5 +1,5 @@
 .topnav {
-    background-color: #333;
+    background-color: #000000;
       overflow: hidden;
     }
     
@@ -24,9 +24,21 @@
     color: white;
     }
 body {
-  background-color: #474747;
+  background-color: #181818
+  ;
 }
 
 body{
-  color: #fafafa;
+  color: #a3a3a3
+}
+
+h2{
+  color: #ffffff
+}
+
+h3 {
+  color: #ffffff
+} 
+body {
+  font-size: 15x
 }
