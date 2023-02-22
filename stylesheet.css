@@ -1,3 +1,8 @@
+html {
+  scroll-behavior: smooth;
+}
+
+
 /* Damit kann ich die Hintergrundfarbe zu bei der Top Navigation Bar ändern */
 .topnav {
     background-color: #000000;
