@@ -98,8 +98,28 @@
     Darüber hinaus führte der Erste Weltkrieg zu einem Umdenken in der Kriegsführung und brachte neue Taktiken hervor, die auf der Technologie und den Erfahrungen aus dem Krieg basierten. Zum Beispiel führte die Grabenkrieg-Taktik zu einem neuen Konzept der Verteidigung, das den Einsatz von Maschinengewehren und Artilleriegeschossen beinhaltete.
     Insgesamt kann der Erste Weltkrieg als der erste moderne Krieg bezeichnet werden, da er zahlreiche technologische Fortschritte und Veränderungen in der Kriegsführung hervorbrachte, die bis heute Einfluss auf den modernen Krieg haben. Die Veränderungen, die im Ersten Weltkrieg eingeleitet wurden, haben die Kriegsführung für immer verändert und zu einem neuen Zeitalter der militärischen Konflikte geführt.</p>
   
-  <h2>Projekttagebuch</h2>
-  <p>Zum Projekttagebuch:<a href="./Projekttagebuch.md">hier</a>
+ 
+ 
+ 
+    <textarea id="text-input" oninput="this.editor.update()"
+    rows="6" cols="60">Insert proxied **Markdown** here.</textarea>
+<div id="preview"> </div>
+<script src="lib/markdown.js"></script>
+<script>
+function Editor(input, preview) {
+this.update = function () {
+preview.innerHTML = markdown.toHTML(input.value);
+};
+input.editor = this;
+this.update();
+}
+var $ = function (id) { return document.getElementById(id); };
+new Editor($("text-input"), $("preview"));
+</script>
+ 
+    <h2>Projekttagebuch</h2>
+ <!--Mit dem Target _blank kann ich eine Website-->
+  <p>Zum Projekttagebuch:<a href="./Projekttagebuch.md" target="_blank">hier</a>
 
 
   
