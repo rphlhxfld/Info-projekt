@@ -20,7 +20,7 @@ Wie ich die Top Navigation Bar machen sollte, wusste ich noch nicht, aber dies k
 
 ### <b>GitHub</b>
 
-Das praktische an GitHub war, dass ich an meinem iPad, an meinen PC und an dem Schulcomputer arbeiten konnte und ohne großen Aufwand die Datei speichern zu können. Außerdem muss ich mir nicht auf dem Schulcomputer bestimmte Programme herunterladen, um dieses Projekt zu bearbeiten, sondern ich konnte einfach den Codespace bei GitHub benutzen.
+Das praktische an GitHub war, dass ich an meinem iPad, an meinen PC und an dem Schulcomputer arbeiten konnte und ohne großen Aufwand die Datei speichern zu können. Außerdem müßte ich mir nicht auf dem Schulcomputer bestimmte Programme herunterladen, um dieses Projekt zu bearbeiten, sondern ich konnte einfach den Codespace bei GitHub benutzen.
 
 
 ## <b>Protokoll</b>
