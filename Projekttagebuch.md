@@ -13,7 +13,8 @@
 
 Ich hatte die Idee für das Fach Geschichte eine Website zu machen, mit der man schnell den ersten Weltkrieg versteht. Eine konkrete Idee für das Design, hatte ich noch nicht, aber eine Konzept hatte ich schon.
 ![Alt-Text](./Images/desingidee.png)
-Wie ich die Top Navigation Bar machen sollte, wusste ich noch nicht, aber dies kann man einfach auf w3schools finden. (https://www.w3schools.com/howto/howto_js_topnav.asp) Die Idee ist, dass ganz oben auf der Seite der Anfang des Krieges ist und je weiter man scrollt, desto weiter entwickelt sich der Krieg. Dass Design sah dann in etwa so aus: ![Alt-Text](./Images/Erster_Weltkrieg-Konzept_von_Website_umgeführt.png) Ich habe dunkle Farben gewählt, da diese die Grausamkeit des Krieges darstellen sollten. Außerdem passen schwarz-weiß Bilder dann zur Website.
+Wie ich die Top Navigation Bar machen sollte, wusste ich noch nicht, aber dies kann man einfach auf w3schools finden. (https://www.w3schools.com/howto/howto_js_topnav.asp) Die Idee ist, dass ganz oben auf der Seite der Anfang des Krieges ist und je weiter man scrollt, desto weiter entwickelt sich der Krieg. Dass Design sah dann in etwa so aus: <br>
+![Alt-Text](./Images/Erster_Weltkrieg-Konzept_von_Website_umgeführt.png) <br>Ich habe dunkle Farben gewählt, da diese die Grausamkeit des Krieges darstellen sollten. Außerdem passen schwarz-weiß Bilder dann zur Website.
  
 
 ## <a name="Tools"> Tools</a>
@@ -34,7 +35,7 @@ Ich der heutigen Stunde habe ich richtig mit meiner Arbeit angefangen, statt mic
 Nachdem ich mir ein Design für die Start-Website mit Figma ausgedacht habe, fügte ich ein passendes Bild ein.
 
 
-### <b>Abend vom18.02.2023</b>
+### <b>Abend vom 18.02.2023</b>
 
 Da ich mehrere Tage krank war, beginne ich heute mit meiner Website. Zuerst habe ich mein Thema vom Ersten Weltkrieg allgemein zu "Warum wird der Erste Weltkrieg moderner Krieg genannt". Außerdem habe ich mir Themen rausgesucht, zu den ich was recherchieren möchte:[ Hier zu den Notizen](RecherchierThemen.htm).
 
