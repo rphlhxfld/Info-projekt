@@ -61,7 +61,7 @@
   <div class="mySlides fade">
     <div class="numbertext">2 / 3</div>
     <img src="./Images/Dicke_BErtha_2.jpeg" style="width:100%">
-    <div class="text">Gamma</div>
+    <div class="text">Eine dicke Bertha in der Gamma Ausgabe:(<a href="https://www.welt.de/geschichte/article125813179/Dicke-Bertha-Deutschlands-erste-Wunderwaffe.html">Zum Bild</a>)</div>
   </div>
 
   <div class="mySlides fade">
@@ -84,7 +84,34 @@
 </div>
     <i>Eine Dicke Berta</i>(<a href="https://www.faz.net/aktuell/wirtschaft/dicke-bertha-nur-bedingt-durchschlagskraeftig-11667395/dicke-bertha-mit-mannschaft-an-11667605.html"style="color: #fff">zum Bild</a>)
      </p>
-  
+  <script>let slideIndex = 1;
+    showSlides(slideIndex);
+    
+    // Next/previous controls
+    function plusSlides(n) {
+      showSlides(slideIndex += n);
+    }
+    
+    // Thumbnail image controls
+    function currentSlide(n) {
+      showSlides(slideIndex = n);
+    }
+    
+    function showSlides(n) {
+      let i;
+      let slides = document.getElementsByClassName("mySlides");
+      let dots = document.getElementsByClassName("dot");
+      if (n > slides.length) {slideIndex = 1} 
+      if (n < 1) {slideIndex = slides.length}
+      for (i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none"; 
+      }
+      for (i = 0; i < dots.length; i++) {
+        dots[i].className = dots[i].className.replace(" active", "");
+      }
+      slides[slideIndex-1].style.display = "block"; 
+      dots[slideIndex-1].className += " active";
+    }</script>
   <h3><a name="Panzer">Panzer</a></h3>
   <p>In den späten Jahren des Krieges kamen motorisierte Panzerwagen hinzu, welche die gegnerischen Linien durchbrechen sollte, die Lücken der eigenen Linien schließen und die Infanterie
     zu unterstützen. Außerdem erhoffte man sich, dass man somit den still gewordenen Grabenkrieg anzuheizen. Der erste Panzer, der das Schlachtfeld sah, war der britische Panzer <I>Mark 1</I>, welcher
