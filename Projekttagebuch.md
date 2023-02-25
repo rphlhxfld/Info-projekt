@@ -41,7 +41,7 @@ Da ich mehrere Tage krank war, beginne ich heute mit meiner Website. Zuerst habe
 
 ### <b>19.2.2023</b>
 
-Am heutigen Tag habe ich sehr viel gemacht. Startete ich mit dem Design: Ich habe die Grautöne geändert, damit sie besser matchen und ich habe eine weiter Navigation Bar erstellt, um einen besseren Überblick zu haben. Dann habe ich mit der Recherche angefangen. Zuerst habe ich das Thema Artillerie recherchiert und dann den dazu Text geschrieben. Das gleiche Verfahren habe ich bei Panzer, Flugzeugen und Maschinengewehren gemacht. Daraufhin habe ich aus eigenen Erkenntnissen ein Fazit geschrieben. Dies hat mich insgesamt 5 Stunden gekostet. Da ich mich noch ein bisschen mehr in das Thema hereingelesen habe.
+Am heutigen Tag habe ich sehr viel gemacht. Startete ich mit dem Design: Ich habe die Grautöne geändert, damit sie besser matchen und ich habe eine weiter Navigation Bar erstellt, um einen besseren Überblick zu haben. Dann habe ich mit der Recherche angefangen. Zuerst habe ich das Thema Artillerie recherchiert und dann den dazu Text geschrieben. Das gleiche Verfahren habe ich bei Panzer, Flugzeugen und Maschinengewehren gemacht. Daraufhin habe ich aus eigenen Erkenntnissen ein Fazit geschrieben. Dies hat mich insgesamt 5 Stunden gekostet. Da ich mich noch ein bisschen mehr in das Thema hereingelesen habe. Uboote habe ich am Ende hinausgelassen, da wir dieses Thema ausführlich im Unterricht besprochen haben.
 
 
 
