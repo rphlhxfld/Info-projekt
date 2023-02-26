@@ -23,12 +23,15 @@ Wie ich die Top Navigation Bar machen sollte, wusste ich noch nicht, aber dies k
 
 Das praktische an GitHub war, dass ich an meinem iPad, an meinen PC und an dem Schulcomputer arbeiten konnte und ohne großen Aufwand die Datei speichern zu können. Außerdem müsste ich mir nicht auf dem Schulcomputer bestimmte Programme herunterladen, um dieses Projekt zu bearbeiten, sondern ich konnte einfach den Codespace bei GitHub benutzen.
 
+### <b>Figma</b>
+
+Die Website https://www.figma.com/files/recent?fuid=1204392195265749589 ist eine Plattform für die Erstellung von Designs und Prototypen. Figma ermöglicht es mir, mit anderne Benutzern gemeinsam an Projekten zu arbeiten und Designs in Echtzeit zu bearbeiten. Die Website bietet zahlreiche Tools und Funktionen für die Erstellung von UI-Designs, Wireframes, Animationen und vielem mehr.
 
 ## <b>Protokoll</b>
 
 ### <b>Stunde vom 13.2.2023</b>
 
-Ich der heutigen Stunde habe ich richtig mit meiner Arbeit angefangen, statt mich mit css und ähnlichem auseinanderzusetzten. Zuerst habe ich versucht, eine Top Navigation Bar mit HTML einzufügen. Als dies erfolgreich war, habe ich ein bisschen Css code hinzugefügt, damit die Hintergrundfarbe, die Schriftfarbe und etc. geändert ist und besser aussieht. Außerdem habe ich das Design der ganzen Website geändert, damit es nicht mehr den standart White-Look von Html ohne css Hatte. Ich habe die Hintergrundfarbe zu einem Grau-Ton geändert und darauf die Schriftfarbe auf weiß eingestellt. Als nächstes würde ich ein Design mir für die Website mit Figma erstellen.
+In der heutigen Stunde habe ich richtig mit meiner Arbeit angefangen, statt mich mit css und ähnlichem auseinanderzusetzten. Zuerst habe ich versucht, eine Top Navigation Bar mit HTML einzufügen. Als dies erfolgreich war, habe ich ein bisschen Css code hinzugefügt, damit die Hintergrundfarbe, die Schriftfarbe und etc. geändert ist und besser aussieht. Außerdem habe ich das Design der ganzen Website geändert, damit es nicht mehr den standart White-Look von Html ohne css Hatte. Ich habe die Hintergrundfarbe zu einem Grau-Ton geändert und darauf die Schriftfarbe auf weiß eingestellt. Als nächstes würde ich ein Design mir für die Website mit Figma erstellen.
 
 ### <b>Nachmittag vom 13.2.2023 </b>
 
@@ -41,7 +44,7 @@ Da ich mehrere Tage krank war, beginne ich heute mit meiner Website. Zuerst habe
 
 ### <b>19.2.2023</b>
 
-Am heutigen Tag habe ich sehr viel gemacht. Startete ich mit dem Design: Ich habe die Grautöne geändert, damit sie besser matchen und ich habe eine weiter Navigation Bar erstellt, um einen besseren Überblick zu haben. Dann habe ich mit der Recherche angefangen. Zuerst habe ich das Thema Artillerie recherchiert und dann den dazu Text geschrieben. Das gleiche Verfahren habe ich bei Panzer, Flugzeugen und Maschinengewehren gemacht. Daraufhin habe ich aus eigenen Erkenntnissen ein Fazit geschrieben. Dies hat mich insgesamt 5 Stunden gekostet. Da ich mich noch ein bisschen mehr in das Thema hereingelesen habe. Uboote habe ich am Ende hinausgelassen, da wir dieses Thema ausführlich im Unterricht besprochen haben.
+Am heutigen Tag habe ich sehr viel gemacht. Zuerst startete ich mit dem Design: Ich habe die Grautöne geändert, damit sie besser matchen und ich habe eine weiter Navigation Bar erstellt, um einen besseren Überblick zu haben. Dann habe ich mit der Recherche angefangen. Zuerst habe ich das Thema Artillerie recherchiert und dann den dazu Text geschrieben. Das gleiche Verfahren habe ich bei Panzer, Flugzeugen und Maschinengewehren gemacht. Daraufhin habe ich aus eigenen Erkenntnissen ein Fazit geschrieben. Dies hat mich insgesamt 5 Stunden gekostet. Da ich mich noch ein bisschen mehr in das Thema hereingelesen habe. Uboote habe ich am Ende hinausgelassen, da wir dieses Thema ausführlich im Unterricht besprochen haben.
 
 
 
