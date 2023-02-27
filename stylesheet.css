@@ -32,48 +32,7 @@ p {
       color: black;
     }
 
-    .   .search-container {
-      float: right;
-    }
     
-    .topnav input[type=text] {
-      padding: 6px;
-      margin-top: 8px;
-      font-size: 17px;
-      border: none;
-    }
-    
-    .topnav .search-container button {
-      float: right;
-      padding: 6px 10px;
-      margin-top: 8px;
-      margin-right: 16px;
-      background: #ddd;
-      font-size: 17px;
-      border: none;
-      cursor: pointer;
-    }
-    
-    .topnav .search-container button:hover {
-      background: #ccc;
-    }
-    
-      }
-      .topnav a, .topnav input[type=text], .topnav .search-container button {
-        float: none;
-        display: block;
-        text-align: left;
-        width: 100%;
-        margin: 0;
-        padding: 14px;
-      }
-      .topnav input[type=text] {
-        border: 1px solid #ccc;  
-      }
-    }
-    
-
-
  /* Hintergrundfarbe Body*/  
 body {
   background-color: #181818
@@ -163,7 +122,7 @@ h2 {
   background-color: rgba(0,0,0,0.8);
 }
 
-/* Caption text */
+/* Caption text (Standart Befehle) */
 .text {
   color: #f2f2f2;
   font-size: 15px;
@@ -174,10 +133,11 @@ h2 {
   text-align: center;
 }
 
-/* Nummer text (1/3 etc) */
+/* Nummer text (1/3 etc.) */
 .numbertext {
   color: #f2f2f2;
   font-size: 12px;
+  /* padding beschreibt den Innenabstand eines Elementes zu seinem Rahmen */
   padding: 8px 12px;
   position: absolute;
   top: 0;
@@ -199,17 +159,17 @@ h2 {
   background-color: #717171;
 }
 
-/* Fading animation */
+/* Fade animation (Irgendwie Klar,oder? */
 .fade {
   animation-name: fade;
   animation-duration: 1.5s;
 }
-
+/*(Animation)*/
 @keyframes fade {
   from {opacity: .4} 
   to {opacity: 1}
 }
-
+/* Github Icon*/
 .wrapper .icon{
   position: relative;
   background-color: #ffffff;
@@ -227,6 +187,8 @@ h2 {
   color: #333;
   text-decoration: none;
 }
+
+
 .wrapper .tooltip {
   position: absolute;
   top: 0;
