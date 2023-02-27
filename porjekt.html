@@ -109,8 +109,9 @@
     function currentSlide(n) {
       showSlides(slideIndex = n);
     }
-
+// die Funktion "showSlides(n)", die aufgerufen wird, um das aktuelle Bild in der Galerie anzuzeigen. Die Funktion erhält einen Parameter "n", der angibt, welches Bild in der Galerie angezeigt werden soll
     function showSlides(n) {
+      //zu Beginn der Funktion wird eine Variable "i" definiert, um später in der Schleife verwendet zu werden. Die Funktion ruft dann die Elemente der Klasse "mySlides" und "dot" über die Funktion "getElementsByClassName()" ab und speichert sie in den Variablen "slides" und "dots"
       let i;
       let slides = document.getElementsByClassName("mySlides");
       let dots = document.getElementsByClassName("dot");
@@ -133,79 +134,11 @@
      sowie drei Maschinengewehren ausgestattet, während die <i>Female</i>-Variante mit fünf Maschinengewehren; je zwei nach den beiden Seiten, eines nach vorn feuernd ausgestattet wurde.
    <br>
    <br>
-   <!-- Slideshow container -->
-<div class="slideshow-container">
-
   
-  <div class="mySlides fade">
-    <div class="numbertext">1 / 2</div>
+  
     <img src="./Images/British_Mark_I_Tankin_Male.jpg" width="100%">
-    <div class="text"><i>Ein britischer Mark 1 in der Male Variante (<a href="https://commons.wikimedia.org/wiki/File:British_Mark_I_Tank.jpg"style="color: #fff">Zum Bild</a></i>)</div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">2 / 2</div>
-    <img src="./Images/Dicke_BErtha_2.jpeg" style="width:100%">
-    <div class="text">Eine dicke Bertha in der Gamma Ausgabe:(<a href="https://www.welt.de/geschichte/article125813179/Dicke-Bertha-Deutschlands-erste-Wunderwaffe.html"style="color: #fff">Zum Bild</a>)</div>
-  </div>
-
-  
-
-  <!-- Vor und zurück Knöpfe-->
-  <!--&#10094 ist eine entity, welche den Zurückbutton  darstellen sollen-->
-  <!--Onclick ist ein Event, welches passiert, wenn etwas in html angeclickt wird und hier wird gesagt,
-  dass die Slide ein Bild anzeigen soll, welches ein Bild hinter dem jetzigen ist-->
-  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-  <!--&#10095 ist eine entity,welche den Vorbutton darstellen soll -->
-  <!--Wieder ein onclick,welches genau das Gegenteil bewirkt-->
-  <a class="next" onclick="plusSlides(1)">&#10095;</a>
-
-</div>
-<br>
-
-<!-- hier werden die Kreise geschaffen, welche später anzeigen sollen, welches Bild 
-  gerade gezeigt wird -->
-<div style="text-align:center">
-  <span class="dot" onclick="currentSlide(1)"></span> 
-  <span class="dot" onclick="currentSlide(2)"></span> 
-  <span class="dot" onclick="currentSlide(3)"></span> 
-</div>
-   
-     </p>
-  <script>
-  // slideIndex speichert, welches Bild gerade angezeigt wird
-  let slideIndex = 1;
-  // "showSlides(n)" wird verwendet, um das aktuelle Bild und seine Nummerierung anzuzeigen und die anderen Bilder auszublenden. Diese Funktion wird auch verwendet, um den Kreis zu aktualisieren, der das aktuelle Bild anzeigt  
-  showSlides(slideIndex);
-    
-    // Die Funktion "plusSlides(n)" wird aufgerufen, wenn man den vorherigen oder nächsten Link anklickt. Diese Funktion erhöht oder verringert den Wert der slideIndex-Variable und ruft dann die showSlides-Funktion auf, um das neue Bild anzuzeigen
-    function plusSlides(n) {
-      showSlides(slideIndex += n);
-    }
-   // "currentSlide(n)" verwendet, um die Position des aktuellen Bildes zu aktualisieren, wenn der Benutzer auf einen der Kreise unter den Bildern klickt. Diese Funktion setzt einfach die slideIndex-Variable auf den Wert, der dem angeklickten Kreis entspricht, und ruft die showSlides-Funktion auf, um das entsprechende Bild anzuzeigen
-    function currentSlide(n) {
-      showSlides(slideIndex = n);
-    }
-    
-    function showSlides(n) {
-      let i;
-      let slides = document.getElementsByClassName("mySlides");
-      let dots = document.getElementsByClassName("dot");
-      if (n > slides.length) {slideIndex = 1} 
-      if (n < 1) {slideIndex = slides.length}
-      for (i = 0; i < slides.length; i++) {
-        slides[i].style.display = "none"; 
-      }
-      for (i = 0; i < dots.length; i++) {
-        dots[i].className = dots[i].className.replace(" active", "");
-      }
-      slides[slideIndex-1].style.display = "block"; 
-      dots[slideIndex-1].className += " active";
-    }</script>
-    
-    <!--Mit der Prozentzahl bei Width kann man den Platz auswählen, welche das Bild auf dem Bildschirm einnimmt-->
-
-     
+<i>Ein britischer Mark 1 in der Male Variante (<a href="https://commons.wikimedia.org/wiki/File:British_Mark_I_Tank.jpg"style="color: #fff">Zum Bild</a></i>)
+  </div>     
   </p>
   
   <h3><a name="Flugzeuge">Flugzeuge</a></h3>
@@ -263,8 +196,8 @@
     <li><b>Wikipedia.org</b>:<a href="https://de.wikipedia.org/wiki/Fokker_E.I-IV"style="color: #fff"></a>https://de.wikipedia.org/wiki/Fokker_E.I-IV</li>
     <li>Eigenes Wissen: Raphael - Mein eigenes Wissen, Bonn 2008 (1.Auflage)
   </ol>
-<h2>Credits</h2>
-<p>Vielen Dank an: Blackbird14, Mutter von Blackbird14 und zero-devx</p>
+<h2>Dank</h2>
+<p>Vielen Dank an: Blackbird14, Mikas Mutter(Vielen Dank Sandra) und zero-devx</p>
 
   <!-- Mit diesem div habe ich mein Github verlinkt-->
   <div class="wrapper">
