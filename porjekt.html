@@ -2,7 +2,6 @@
 <html>
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-
   <link rel="stylesheet" type="text/css" href="./stylesheet.css">
 	<meta charset="utf-8">
 <!-- Font Awesome 5.15.1 CSS -->
@@ -115,14 +114,17 @@
       let i;
       let slides = document.getElementsByClassName("mySlides");
       let dots = document.getElementsByClassName("dot");
+     // Wenn der übergebene Parameter "n" größer als die Anzahl der "slides" ist, wird der Wert von "slideIndex" auf 1 gesetzt, um zur ersten Folie zurückzukehren. Wenn "n" kleiner als 1 ist, wird "slideIndex" auf die Länge von "slides" gesetzt, um zur letzten Folie zu gehen
       if (n > slides.length) {slideIndex = 1} 
       if (n < 1) {slideIndex = slides.length}
+      // Die Schleife wird durch jedes "slides"-Element iteriert und der "display"-Stil auf "none" gesetzt, um alle Bilder in der Galerie auszublenden. Ebenso wird in einer weiteren Schleife durch jedes "dots"-Element iteriert, und die Klasse "active" wird aus jedem entfernt, um alle Punkte unter den Bildern zurückzusetzen
       for (i = 0; i < slides.length; i++) {
         slides[i].style.display = "none"; 
       }
       for (i = 0; i < dots.length; i++) {
         dots[i].className = dots[i].className.replace(" active", "");
       }
+      // Das aktuelle "slides"-Element an der Position "slideIndex-1" wird dann mit dem Stil "display:block" angezeigt, um das entsprechende Bild anzuzeigen. Ebenso wird das entsprechende "dots"-Element mit der Klasse "active" markiert, um anzuzeigen, welches Bild derzeit aktiv ist.
       slides[slideIndex-1].style.display = "block"; 
       dots[slideIndex-1].className += " active";
     }</script>
