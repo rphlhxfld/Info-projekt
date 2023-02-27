@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
   <link rel="stylesheet" type="text/css" href="./stylesheet.css">
 	<meta charset="utf-8">
 <!-- Font Awesome 5.15.1 CSS -->
@@ -15,7 +17,7 @@
     <a href="#was">Was versteht man unter dem modernen Krieg?</a>
     <a href="#Neue oder verbesserte Technik">Neu oder verbesserte Technik</a>   
     <a href="#Schlüsselereignise">Fazit</a>
-    
+  
   </div> 
   <img src="./Images/Prototype3.png" style="width:100%">
 
@@ -73,12 +75,19 @@
   </div>
 
   <!-- Vor und zurück Knöpfe-->
+  <!--&#10094 ist eine entity, welche den Zurückbutton  darstellen sollen-->
+  <!--Onclick ist ein Event, welches passiert, wenn etwas in html angeclickt wird und hier wird gesagt,
+  dass die Slide ein Bild anzeigen soll, welches ein Bild hinter dem jetzigen ist-->
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <!--&#10095 ist eine entity,welche den Vorbutton darstellen soll -->
+  <!--Wieder ein onclick,welches genau das Gegenteil bewirkt-->
   <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
 </div>
 <br>
 
-<!-- die unteren Kreise, wo gezeigt wird, welches Bild angeeigt wird -->
+<!-- hier werden die Kreise geschaffen, welche später anzeigen sollen, welches Bild 
+  gerade gezeigt wird -->
 <div style="text-align:center">
   <span class="dot" onclick="currentSlide(1)"></span> 
   <span class="dot" onclick="currentSlide(2)"></span> 
@@ -86,15 +95,17 @@
 </div>
    
      </p>
-  <script>let slideIndex = 1;
-    showSlides(slideIndex);
+  <script>
+  // slideIndex speichert, welches Bild gerade angezeigt wird
+  let slideIndex = 1;
+  // "showSlides(n)" wird verwendet, um das aktuelle Bild und seine Nummerierung anzuzeigen und die anderen Bilder auszublenden. Diese Funktion wird auch verwendet, um den Kreis zu aktualisieren, der das aktuelle Bild anzeigt  
+  showSlides(slideIndex);
     
-    // vor und zurück funktion
+    // Die Funktion "plusSlides(n)" wird aufgerufen, wenn man den vorherigen oder nächsten Link anklickt. Diese Funktion erhöht oder verringert den Wert der slideIndex-Variable und ruft dann die showSlides-Funktion auf, um das neue Bild anzuzeigen
     function plusSlides(n) {
       showSlides(slideIndex += n);
     }
-    
-    // Thumbnail Foto Kontrolle
+   // "currentSlide(n)" verwendet, um die Position des aktuellen Bildes zu aktualisieren, wenn der Benutzer auf einen der Kreise unter den Bildern klickt. Diese Funktion setzt einfach die slideIndex-Variable auf den Wert, der dem angeklickten Kreis entspricht, und ruft die showSlides-Funktion auf, um das entsprechende Bild anzuzeigen
     function currentSlide(n) {
       showSlides(slideIndex = n);
     }
